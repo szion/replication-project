@@ -1,0 +1,16 @@
+---
+title: "Psych 251 - Replication Project Proposal"
+author: "Sean Zion"
+date: "October 8th 2017"
+output:
+  html_document:
+    toc: yes
+---
+
+
+    Prevalence of economic insecurity and physical pain have both increased dramatically in recent years. A series of studies by Chou, Parmar, and Galinsky report a causal link between the two, providing further evidence for a relationship between broad social trends and physical health. This finding has important public health implications: pain has an economic cost of more than $635 billion and increased over 1000% in the past two decades. As a social and health psychologist with an interest in the relationship between the social environment and chronic illness, this causal link isn’t necessarily surprising. However, connecting these two major social issues may critically shape public policy and should be investigated further. 
+        The goal of this project is to replicate one finding from the series of six studies presented in this paper. Study 1 used an existing dataset of 33,720 households in the United States, and therefore isn’t appropriate for this project. Study 6 was a lab experiment that used a behavioral measure (pain tolerance) as the dependent variable, and similarly cannot be replicated for this project. Study 2 tests for a relationship between economic insecurity and physical pain, but does not test for a causal link between the two. Studies 4 and 5 demonstrate that lack of control mediated the relationship between economic insecurity and physical pain. Study 3, however, most succinctly demonstrates the authors’ main findings and will be replicated for this project. This study tested for a causal connection between economic insecurity and physical pain. 250 Mechanical Turk participants were recruited and randomly assigned to one of two economic insecurity conditions. Those in the high-insecurity condition were asked to write about a time when they felt uncertain about their economic prospects. In the low-insecurity condition participants wrote about a time when they felt financially secure. All participants then completed the short form of the McGill Pain Questionnaire. Measures of affect and demographic data were also collected. 
+        Participants were asked to write several sentences about a personal experience, each of which will need to be reviewed for accuracy. If participants did not spend sufficient time on the activity, the economic-insecurity manipulation may not have had the intended effect. Therefore, it might be useful to design a survey that records time spend on this writing activity, and track changes that participants make to their responses as they write. The authors also do not indicate the order of the surveys, other than that the pain measure was given after the manipulation. This will need to be determined to ensure a valid replication. Finally, participants in the original study were paid $1.00 each for their participation in the study, which may be prohibitively expensive for this replication project.
+
+
+
